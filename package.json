@@ -1,0 +1,42 @@
+
+{
+  "name": "rio-futaba",
+  "version": "1.0.0",
+  "description": "An open source bot using discord.js, will include some random features for your faces",
+  "main": "index.js",
+  "dependencies": {
+    "apexlegendsjs": "^1.2.1",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.1.1",
+    "figlet": "^1.4.0",
+    "fortnite": "^4.3.2",
+    "got": "^10.7.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "valorant": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fullstack-Wibuloper/Rio-Futaba-Bot.git"
+  },
+  "keywords": [
+    "Alita",
+    "discord",
+    "mongo"
+  ],
+  "author": "DomathID",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/Fullstack-Wibuloper/Rio-Futaba-Bot/issues"
+  },
+  "homepage": "https://github.com/Fullstack-Wibuloper/Rio-Futaba-Bot#readme"
+}
