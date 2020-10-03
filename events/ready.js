@@ -5,8 +5,14 @@ const chalk = require("chalk");
 
 module.exports = async (client) => {
     try {
-        client.logger.ready(`${client.user.tag} is now up and running!`);
-    } catch (e) {
+        client.setPresence({
+            activity: 
+             name: 'JavaScript',
+             type: 'PLAYING',
+            },
+             status: 'idle'
+       })                    
+    }, catch (e) {
         console.log(e);
     }
 };
