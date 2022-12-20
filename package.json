@@ -15,7 +15,7 @@
     "fortnite": "^4.3.2",
     "got": "^11.8.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.9.7",
+    "mongoose": "^6.8.1",
     "node-fetch": "^2.6.0",
     "random-puppy": "^1.1.0",
     "valorant": "0.0.3"
